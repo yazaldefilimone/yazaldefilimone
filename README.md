@@ -1,6 +1,6 @@
 ### Ola 👋
 # Ola😃😜
-![Metrics](https://metrics.lecoq.ioyazaldefilimonepinto/?template=classic&activity=1&isocalendar=1&languages=1&posts=1&stars=1&tweets=1&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&tweets.limit=2&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FSao_Paulo&config.animated=true)
+![Metrics](https://metrics.lecoq.io/yazaldefilimonepinto/?template=classic&activity=1&isocalendar=1&languages=1&posts=1&stars=1&tweets=1&posts.limit=4&posts.source=dev.to&isocalendar.duration=half-year&tweets.limit=2&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=America%2FSao_Paulo&config.animated=true)
 
 # Seja bem vindo ao meu repositório.
 ## Eu sou Yazalde sou programador 
