@@ -5,7 +5,7 @@
 <p>Nas áreas de I.A Desenvolvimento web<p>
 
 
-## Sou apaixonado na linguagem JavaScript 
+## Sou apaixonado por JavaScript 
 Sou desenvolvendor em Python Bash JavaScript HTML CSS 
 # utilizo fremework Flexbox grid reactjs
 # Minha inspiração
