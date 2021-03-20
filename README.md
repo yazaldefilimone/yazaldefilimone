@@ -1,8 +1,11 @@
 # Hi there
 🌱 In constant learning in programming.
+
 🤓I started programming after meeting Filipe Deschamps then I started falling in love with JavaScript and I got one on @ Edilsom-dk that I admire too much
+
 🤔 Why do I love programming? 
   > because this way I solve community problems in an intelligent way and the power to create systems contributes a lot in this love
+
 💬 Always looking for new ideas and expanding my thoughts.
 
 📫 Talk to me!
