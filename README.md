@@ -12,7 +12,7 @@
 
   - [Instagram](https://www.instagram.com/yazaldefilimone?r=nametag)
   - [Linkedin](https://www.linkedin.com/mwlite/in/yazalde-filimone-65142b206)
-  - [Youtube](https://youtube.coannel/UCbwEh03h1sPpKfXv4dBIchA)
+  - [Youtube](https://www.youtube.com/channel/UCpIQVyjdNKist2WKDgckggQ)
 
 😄 My favorite technologies and what I use:
 
