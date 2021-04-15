@@ -30,7 +30,7 @@
 
 
 <div style="display:inline" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Edmilson github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="yazaldefilimonepinto github stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazaldefilimonepinto&hide=Makefile&layout=compact" height="150" alt="Yazalde top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazaldefilimonepinto&hide=Makefile&layout=compact" height="150" alt="yazaldefilimonepinto" />
 </div>
