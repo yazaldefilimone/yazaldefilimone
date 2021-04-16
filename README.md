@@ -28,7 +28,7 @@
   ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel )
 
-
+<img src="https://image.freepik.com/vetores-gratis/desenho-de-mochila-de-bolsa_138676-2960.jpg" border-radius="5px" align="center">
 <div style="display:inline" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="yazaldefilimonepinto github stats" />
 <br>
