@@ -1,4 +1,7 @@
 # 💜Hi there
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
 🌱 In constant learning in programming.
 
 🤓I started programming after meeting Filipe Deschamps then I started falling in love with JavaScript and I got one on @ Edilsom-dk that I admire too much
