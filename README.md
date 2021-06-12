@@ -2,12 +2,12 @@
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-🌱 In constant learning in programming.
+🌱 Always learning 💜📚.
 
-🤓I started programming after meeting Filipe Deschamps then I started falling in love with JavaScript and I got one on @ Edilsom-dk that I admire too much
+🐺✨ two years ago... today I see that I am living one of my biggest dreams to be a programmer.
 
 🤔 Why do I love programming? 
-  > because this way I solve community problems in an intelligent way and the power to create systems contributes a lot in this love
+  > I believe that technology and science can change lives, for the better and be part of this group of people who try to improve each one's lives and are rewarding
 
 💬 Always looking for new ideas and expanding my thoughts.
 
