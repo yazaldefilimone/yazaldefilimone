@@ -5,7 +5,7 @@
 🌱 Always learning 💜📚.
 
 🤔 Why do I love programming? 
-  > I believe that technology and science can change lives, for the better and be part of this group of people who try to improve each one's lives and are rewarding
+  > I do it for money, but much more than that I do it for feeling, my soul in every line of code you see that comes from inside💜
 
 💬 Always looking for new ideas and expanding my thoughts.
 
