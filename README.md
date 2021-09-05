@@ -4,8 +4,6 @@
 
 🌱 Always learning 💜📚.
 
-🐺✨ two years ago... today I see that I am living one of my biggest dreams to be a programmer.
-
 🤔 Why do I love programming? 
   > I believe that technology and science can change lives, for the better and be part of this group of people who try to improve each one's lives and are rewarding
 
