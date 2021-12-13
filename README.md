@@ -1,17 +1,22 @@
+#!nodejs
+
 namespace Yazalde Filimone;
 
-class About extends Me
-{
-    public  getCurrentWorkplace(): array {
+class About extends Me {
+    getCurrentWorkplace(){
         return [
-            'workplace' => [
-                'company' => 'Freelancer',
-                'position' => 'Júnior'         
+            'workplace':[
+                {
+                'company' : 'Freelancer'
+                },
+                {
+                'position' :'Júnior'
+                }         
             ]
         ];
     }
 
-    public getDailyKnowledge(): array {
+    getDailyKnowledge() {
         return [
             JavaScript::class,
             TypeScript::class,
@@ -28,7 +33,7 @@ class About extends Me
         ];
     }
 
-    public getFutureGoal(): string {
+    getFutureGoal() {
         return 'I will be the above average fullStack developer.';
     }
 }
