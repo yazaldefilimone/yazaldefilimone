@@ -1,4 +1,6 @@
-``````js//#!nodejs
+``````js//
+#!nodejs(Typescript)
+
 namespace Yazalde Filimone;
 
 class About extends Me {
