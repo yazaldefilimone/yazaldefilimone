@@ -1,10 +1,8 @@
-``````js//
-#!nodejs(Typescript)
-
+``````ts//
 namespace Yazalde Filimone;
 
 class About extends Me {
-   public getCurrentWorkplace(): array{
+   public getCurrentWorkplace(): Array{
         return [
             'workplace':[
                 {
@@ -16,24 +14,22 @@ class About extends Me {
             ]
         ];
     }
-
-   public getDailyKnowledge():array {
+  public getDailyKnowledge():Array {
         return [
-           { JavaScript: class },
-           { TypeScript:class },
-           { ReactJs:class },
-           { Adonijs:class },
-           { Sass:class },
-           { NextJs:class },
-           { C++:class },
-           { NestJs:class },
-           { Css3:class },
-           { Html5:class },
-           { Nodejs:class} ,
-           { StyledComponent:class }
+           { "JavaScript": "class" },
+           { "TypeScript":"class" },
+           { "ReactJs":"class" },
+           { "Adonijs":"class" },
+           { "Sass":"class" },
+           { "NextJs":"class" },
+           { "C++":"class" },
+           { "NestJs":"class" },
+           { "Css3":"class" },
+           { "Html5":"class" },
+           { "Nodejs":"class"} ,
+           { "StyledComponent":"class" }
         ];
     }
-
    public getFutureGoal():string {
         return 'I will be the above average fullStack developer.';
     }
