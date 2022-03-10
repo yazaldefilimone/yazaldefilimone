@@ -18,6 +18,7 @@ Learning:
 - Domain Drive Design.
 - Functional programming.
 - UI/UX Design.
+- English.
 
 A little about myself:
 - Sometimes people like us need fixing before we adapt to the world.
