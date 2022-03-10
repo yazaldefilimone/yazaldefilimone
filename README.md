@@ -35,7 +35,6 @@ A little about myself:
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -43,8 +42,7 @@ A little about myself:
   ![Postgresql](https://img.shields.io/badge/-Postgresql-blue?style=flat-square&logo=postgresql)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel)
-  ![C](https://img.shields.io/badge/-Clang-blue?style=flat-square&logo=c)
-
+  
 
 <div style="display:inline" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Yazalde Filimone github stats" />
