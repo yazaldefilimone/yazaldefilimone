@@ -14,7 +14,7 @@
 
 Learning:
 
-- Design Petterns.
+- Design Patterns.
 - Domain Drive Design.
 - Functional programming.
 - UI/UX Design.
@@ -43,6 +43,13 @@ A little about myself:
   ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel)
   
+💡 My design patterns and methodologies:
+
+- Clean Architecture.
+- Domain Drive Design.
+- Test Driven Development.
+- Design Patterns.
+
 
 <div style="display:inline" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Yazalde Filimone github stats" />
