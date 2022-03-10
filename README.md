@@ -52,7 +52,7 @@ A little about myself:
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel)
 
 <div style="display:inline" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Yazalde Filimone github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=&include_all_commits=true" height="150" alt="Yazalde Filimone github stats" />
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazaldefilimonepinto&hide=Makefile&layout=compact" height="150" alt="Edmilson top langs" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazaldefilimonepinto&hide=Makefile&layout=compact" height="150" alt="Yazalde Filimone top langs" />
 </div>
