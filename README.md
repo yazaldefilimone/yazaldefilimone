@@ -28,6 +28,14 @@ A little about myself:
 - [Whatsapp](https://twitter.com/DkSecurity?s=09)
 - [Linkedin](https://www.linkedin.com/in/edmilson-jesus-4128711b5)
 
+
+😉 My design patterns and methodologies:
+
+- Clean Architecture.
+- Domain Drive Design.
+- Test Driven Development.
+- Design Patterns.
+
 😄 My favorite technologies and what I use:
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -42,14 +50,6 @@ A little about myself:
   ![Postgresql](https://img.shields.io/badge/-Postgresql-blue?style=flat-square&logo=postgresql)
   ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
   ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel)
-  
-💡 My design patterns and methodologies:
-
-- Clean Architecture.
-- Domain Drive Design.
-- Test Driven Development.
-- Design Patterns.
-
 
 <div style="display:inline" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" alt="Yazalde Filimone github stats" />
