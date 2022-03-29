@@ -26,7 +26,7 @@ A little about myself:
 📫 Talk to me!
 
 - [Whatsapp](https://twitter.com/DkSecurity?s=09)
-- [Linkedin](https://www.linkedin.com/in/edmilson-jesus-4128711b5)
+- [Linkedin](https://www.linkedin.com/in/yazalde-filimone-65142b206/)
 
 
 😉 My design patterns and methodologies:
