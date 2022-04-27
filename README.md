@@ -6,7 +6,7 @@
 
 💡 Fall in love with studying because that is what will make your dreams come true.
 
-🤓 My engineering background includes, but is not limited to, React web apps and Node.js monoliths and microservices. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions.
+🤓 My engineering background includes, but is not limited to, React web apps and Node.js. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions.
 
 🤔 Why do I love programming?
 
