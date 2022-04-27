@@ -6,6 +6,8 @@
 
 💡 Fall in love with studying because that is what will make your dreams come true.
 
+🤓 My engineering background includes, but is not limited to, React web apps and Node.js monoliths and microservices. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions.
+
 🤔 Why do I love programming?
 
 > Simple, those who study have in their hands the power to transform not only their own lives but also those of the people around them.
