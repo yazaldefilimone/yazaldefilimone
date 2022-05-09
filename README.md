@@ -10,7 +10,7 @@
 
 🤔 Why do I love programming?
 
-> Simple, those who study have in their hands the power to transform not only their own lives but also those of the people around them.
+> Those who study have in their hands the power to transform not only their own lives, but also the lives of those around them. I found this transformative power in programming.
 
 💬 Always looking for new ideas and expanding my thoughts.
 
@@ -31,14 +31,6 @@ A little about myself:
 - [Whatsapp]()
 - [Linkedin](https://www.linkedin.com/in/yazalde-filimone-65142b206/)
 
-😉 My design patterns and methodologies:
-
-- Clean Architecture.
-- Domain Drive Design.
-- Test Driven Development.
-- Design Patterns.
-
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -51,3 +43,11 @@ A little about myself:
 ![Postgresql](https://img.shields.io/badge/-Postgresql-blue?style=flat-square&logo=postgresql)
 ![ReactJS](https://img.shields.io/badge/-ReactJS-black?style=flat-square&logo=react)
 ![NextJS](https://img.shields.io/badge/-NextJS-black?style=flat-square&logo=vercel)
+
+
+
+<div style="display:inline" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&theme=dracula&include_all_commits=true" height="150" width="500" alt="Yazalde Filimone github stats" />
+<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazaldefilimonepinto&hide=Makefile&layout=compact&theme=dracula"  width="500"  height="150" alt="Yazalde Filimone top langs" />
+</div>
