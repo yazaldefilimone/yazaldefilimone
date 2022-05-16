@@ -14,12 +14,6 @@ class Skills extends Desenvolvedor {
   frameworks = ['NextJs', 'NestJs', 'VueJs'];
 }
 
-class More extends Desenvolvedor {
-  skills = 'My engineering background includes, but is not limited to, React web apps and Node.js. I enjoy exploring the capabilities of modern tools, which leads engineering towards new, flexible solutions.';
-  love = 'Those who study have in their hands the power to transform not only their own lives, but also the lives of those around them. I found this transformative power in programming.'
-  stundiny = 'Fall in love with studying because that is what will make your dreams come true.'
-  
-}
 
 ```
 
