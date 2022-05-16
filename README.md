@@ -5,7 +5,7 @@ class SobreMim extends Desenvolvedor {
   nome     = 'Yazalde Filimone';
   area    = 'Full-Stack Developer';
   trabalho  = 'A4PM - Analytics for Public Management';
-  local = 'Remote';
+  local = 'Home Office';
 }
 
 class Skills extends Desenvolvedor {
