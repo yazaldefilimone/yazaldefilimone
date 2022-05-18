@@ -9,7 +9,7 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Javascript', 'TypeScript', 'NodeJs', 'C++', 'Python', 'Sass'];
+  linguagens  = ['Javascript', 'TypeScript', 'NodeJs', 'C++', 'Sass'];
   bibliotecas  = ['ReactJs', 'Styled Components'];
   frameworks = ['NextJs', 'NestJs', 'VueJs'];
 }
