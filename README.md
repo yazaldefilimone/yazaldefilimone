@@ -16,6 +16,7 @@ class Skills extends Desenvolvedor {
   sql = ['postgresql', 'mysql'];
   noSql = ['mongoDB']
   orm = ['typeORM', 'prisma']
+  default = ['clean architecture','tdd','mvc']
   
 }
 
