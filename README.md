@@ -2,16 +2,21 @@
 import Desenvolvedor from 'filimone';
 
 class SobreMim extends Desenvolvedor {
-  nome     = 'Yazalde Filimone';
-  area    = 'Full-Stack Developer';
-  trabalho  = 'A4PM - Analytics for Public Management';
+  nome = 'Yazalde Filimone';
+  area = 'Full-Stack Developer';
+  trabalho = 'A4PM - Analytics for Public Management';
   local = 'Home Office';
 }
 
 class Skills extends Desenvolvedor {
-  linguagens  = ['Javascript', 'TypeScript', 'NodeJs', 'C++', 'Sass'];
+  web = ['html:5','css:3','vanilajs']
+  linguagens  = ['Javascript', 'TypeScript', 'C++'];
   bibliotecas  = ['ReactJs', 'Styled Components'];
-  frameworks = ['NextJs', 'NestJs', 'VueJs'];
+  frameworks = ['NextJs', 'NestJs', 'VueJs', 'Sass'];
+  sql = ['postgresql', 'mysql'];
+  noSql = ['mongoDB']
+  orm = ['typeORM', 'prisma']
+  
 }
 
 
