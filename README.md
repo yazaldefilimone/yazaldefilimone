@@ -9,10 +9,10 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  web = ['html:5','css:3','vanilajs']
+  web = ['html:5','css:3','Sass','vanilajs']
   linguagens  = ['Javascript', 'TypeScript', 'C++'];
   bibliotecas  = ['ReactJs', 'Styled Components'];
-  frameworks = ['NextJs', 'NestJs', 'VueJs', 'Sass'];
+  frameworks = ['NextJs', 'NestJs', 'VueJs'];
   sql = ['postgresql', 'mysql'];
   noSql = ['mongoDB']
   orm = ['typeORM', 'prisma']
