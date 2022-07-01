@@ -37,6 +37,8 @@ class Skills extends Desenvolvedor {
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a> -->
   <a href="https://twitter.com/yazaldefilimone" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&labelColor=1D9BF0&logo=twitter&logoColor=white&link=https://twitter.com/yazaldefilimone"/></a>
+    <a href="https://yazaldefilimone.vercel.app/" alt="">
+  <img src="https://img.shields.io/badge/-My Blog-1D9BF0?style=flat-square&labelColor=1D9BF0&&logoColor=white&link=https://yazaldefilimone.vercel.app/"/></a>
 </p>
 
 
