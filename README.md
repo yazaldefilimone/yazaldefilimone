@@ -22,7 +22,7 @@ class Skills extends Programmer {
     this.noSql = ['mongoDB']
     this.orm = ['typeORM', 'prisma']
     this.default = ['clean architecture','DDD','TDD','MVC']
-    this.learning = ['C','Elixir','Functional programming','Micro-services', 'UI/UX Design']
+    this.learning = ['C','Elixir','Functional programming','Micro-services', 'UI Design']
   }
   
 }
