@@ -1,26 +1,30 @@
 ```js
-import Desenvolvedor from 'filimone';
+import Programmer from 'filimone';
 
-class SobreMim extends Desenvolvedor {
-  nome = 'Yazalde Filimone';
-  area = 'Full-Stack Developer';
-  trabalho = 'A4PM - Analytics for Public Management';
-  local = 'Home Office';
+class AboutMe extends Programmer {
+  constructor(){
+    super();
+    this.name = 'Yazalde Filimone';
+    this.workingLike = 'Software Engineer';
+    this.workAt = 'A4PM - Analytics for Public Management';
+    this.typeContract = 'Home-Office';
+  }
 }
 
-class Skills extends Desenvolvedor {
-  web = ['html:5','css:3','Sass','vanilajs']
-  linguagens  = ['Javascript', 'TypeScript', 'C++'];
-  bibliotecas  = ['ReactJs', 'Styled Components'];
-  frameworks = ['NextJs', 'NestJs', 'VueJs'];
-  sql = ['postgresql', 'mysql'];
-  noSql = ['mongoDB']
-  orm = ['typeORM', 'prisma']
-  default = ['clean architecture','DDD','TDD','MVC']
+class Skills extends Programmer {
+  constructor(){
+    super();
+    this.web = ['html:5','css:3','Sass','vanilajs']
+    this.linguagens  = ['Javascript', 'TypeScript', 'C++'];
+    this.libraries  = ['ReactJs', 'Styled Components'];
+    this.frameworks = ['NextJs', 'NestJs', 'VueJs'];
+    this.sql = ['postgresql', 'mysql'];
+    this.noSql = ['mongoDB']
+    this.orm = ['typeORM', 'prisma']
+    this.default = ['clean architecture','DDD','TDD','MVC']
+  }
   
 }
-
-
 ```
 
 <p align="left">
