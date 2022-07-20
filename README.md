@@ -1,5 +1,5 @@
 ```js
-import Programmer from 'filimone';
+import { Programmer } from 'yazaldefilimonepinto';
 
 class AboutMe extends Programmer {
   constructor(){
