@@ -15,14 +15,14 @@ class Skills extends Programmer {
   constructor(){
     super();
     this.web = ['html:5','css:3','Sass','vanilajs']
-    this.linguagens  = ['Javascript', 'TypeScript', 'C++'];
-    this.libraries  = ['ReactJs', 'Styled Components'];
-    this.frameworks = ['NextJs', 'NestJs', 'VueJs'];
+    this.linguagens  = ['Javascript', 'TypeScript', 'C/C++', 'Python'];
+    this.frontend  = ['ReactJs', 'Styled Components', 'NextJs', 'Vuejs', 'Tailwind'];
+    this.backend = ['Nodejs', 'Express', 'NestJS', 'GraphQL'];
     this.sql = ['postgresql', 'mysql'];
     this.noSql = ['mongoDB']
     this.orm = ['typeORM', 'prisma']
     this.default = ['clean architecture','DDD','TDD','MVC']
-    this.learning = ['C/C++', 'Python','machine learning', 'deep learning']
+    this.learning = ['C/C++', 'Python','machine learning', 'deep learning', 'React Native']
   }
   
 }
