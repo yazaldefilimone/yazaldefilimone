@@ -5,9 +5,9 @@ class AboutMe extends Programmer {
   constructor(){
     super();
     this.name = 'Yazalde Filimone';
-    this.workingLike = 'Software Engineer';
+    this.workingLike = 'Software Developer';
     this.workAt = 'A4PM - Analytics for Public Management';
-    this.typeContract = 'Home-Office';
+    this.contract = 'Home Office';
   }
 }
 
