@@ -7,7 +7,6 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
 - Working remotely as a Software Developer at [a4pm](https://www.a4pm.com.br), using [Vue.js](), [PHP](),  [Node.Js]().
 - Just an introverted boy who likes anime and cosplay.
 
-- Contact me at [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)
 - Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [Multiplayer Game](https://github.com/yazaldefilimonepinto/snake-game-multiplayer)
 
 <p align="left">
