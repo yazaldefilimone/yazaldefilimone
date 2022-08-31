@@ -4,10 +4,11 @@ I'm Yazalde Filimone I live at 🇲🇿 Inhambane, Mozambique.
 
 My experience includes, but it’s not limited to, React and Node.js  (REST, PostgreSQL, GraphQL).
 
-- **I working at [a4pm](https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp), with [vuejs](), [php](), [nodejs]().**
-- **Just an introverted boy who likes anime and cosplay.**
+- Working remotely as a Software Developer at [a4pm](https://www.a4pm.com.br), using [Vue.js](), [PHP](),  [Node.Js]().
+- Just an introverted boy who likes anime and cosplay.
 
-- **Contact me at [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)**
+- Contact me at [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)
+- Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [Multiplayer Game](https://github.com/yazaldefilimonepinto/snake-game-multiplayer)
 
 <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
