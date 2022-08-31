@@ -9,7 +9,9 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
 
 - Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [Multiplayer Game](https://github.com/yazaldefilimonepinto/snake-game-multiplayer)
 
-- My Hobbies are: `Write Code`, `Read Books (ScienceFiction/Technology/Romance/Comics)`, `Remain Silent`
+- My Hobbies are: `Write Code`, `Read Books (ScienceFiction/Technology/Romance/Comics)`, `Remain Silent`.
+
+- My Routine: `Write Code`, `Remain Silent(1h:30)`, `Read Book(Todo Dia - David Levithan)`.
 
 <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
