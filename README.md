@@ -1,32 +1,13 @@
-```js
-import { Programmer } from 'yazaldefilimonepinto';
+<strong> Hey 👋🏻 call me Yazalde.</strong>  
 
-class AboutMe extends Programmer {
-  constructor(){
-    super();
-    this.name = 'Yazalde Filimone';
-    this.workingLike = 'Software Developer';
-    this.workAt = 'A4PM - Analytics for Public Management';
-    this.contract = 'Home Office';
-  }
-}
+I'm Yazalde Filimone I live at Inhambane, Mozambique.
 
-class Skills extends Programmer {
-  constructor(){
-    super();
-    this.web = ['html:5','css:3','Sass','vanilajs']
-    this.linguagens  = ['Javascript', 'TypeScript', 'C/C++', 'Python'];
-    this.frontend  = ['ReactJs', 'Styled Components', 'NextJs','Tailwind'];
-    this.backend = ['Nodejs', 'Express', 'NestJS', 'GraphQL'];
-    this.sql = ['Postgresql', 'Mysql'];
-    this.noSql = ['MongoDB']
-    this.orm = ['TypeORM', 'Prisma']
-    this.default = ['clean architecture','DDD','TDD','MVC']
-    this.learning = ['C/C++', 'Python', 'React Native', 'Tailwind']
-  }
-  
-}
-```
+My experience includes, but it’s not limited to, React and Node.js  (REST, PostgreSQL, GraphQL).
+
+- **I working at [a4pm](https://www.youtube.com/playlist?list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp), with [vuejs](), [php](), [nodejs]().**
+- **Just an introverted boy who likes anime and cosplay.**
+
+- **Contact me at [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)**
 
 <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
