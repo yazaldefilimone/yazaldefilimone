@@ -9,6 +9,8 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
 
 - Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [Multiplayer Game](https://github.com/yazaldefilimonepinto/snake-game-multiplayer)
 
+- My Hobbies are: `Write Code`, `Read Books (ScienceFiction/Technology/Romance/Comics)`, `Remain Silent`
+
 <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
