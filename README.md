@@ -31,8 +31,8 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
 
 
 
-<div style="display:block " align="left">
+<!----<div style="display:block " align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&include_all_commits=true" height="150px"  alt="yazaldefilimonepinto github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazaldefilimonepinto&hide=Makefile&layout=compact" height="150px"  alt="yazaldefilimonepinto top langs" />
-</div>
+</div>--->
 
