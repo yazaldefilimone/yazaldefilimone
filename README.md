@@ -9,6 +9,8 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
 - Working remotely as a Software Developer at [A4pm](https://www.a4pm.com.br), using [Vue.js](https://vuejs.org/), [Laravel](https://laravel.com/),  [Node.Js](https://nodejs.org/).
 - Just an introverted boy who likes anime and cosplay (*introversion is not a disease*).
 
+- Let's make the web faster, accessible and easier.
+
 - Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [Multiplayer Game](https://github.com/yazaldefilimonepinto/snake-game-multiplayer), [Kuhle Code](https://github.com/yazaldefilimonepinto/kuhle-code).
 
 - My Hobbies are `Programing`, `Books`, `Anime/Cosplay`.
