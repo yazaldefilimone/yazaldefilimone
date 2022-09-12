@@ -2,7 +2,6 @@
 
 I'm Yazalde Filimone I live at 🇲🇿 Inhambane, Mozambique
 
-I found in programming something that I can be without having to change my personality.
 
 My experience includes, but it’s not limited to, React and Node.js  (REST, PostgreSQL, GraphQL).
 
