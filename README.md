@@ -31,7 +31,7 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
     <a href="https://yazaldefilimone.vercel.app/" alt="">
   <img src="https://img.shields.io/badge/-My Blog-1D9BF0?style=flat-square&labelColor=1D9BF0&&logoColor=white&link=https://yazaldefilimone.vercel.app/"/></a>
 </p>
-<img src="https://yazaldefilimone.vercel.app/api/count-views-github"/>
+
 
 
 <!----<div style="display:block " align="left">
