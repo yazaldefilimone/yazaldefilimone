@@ -10,7 +10,14 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
 
 - Let's make the web faster, accessible and easier.
 
-- Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone)
+- Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone).
+
+- I'm Reading:
+  - [Arquitetura Limpa na Prática](https://pay.hotmart.com/O59619511K?checkoutMode=10).
+  - [The Software Design & Architecture
+Handbook](https://solidbook.io).
+  - [Algoritmos Teoria e Pratica](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996).
+  
 
 - My Hobbies are `Programing`, `Books`, `Anime/Cosplay`.
 
