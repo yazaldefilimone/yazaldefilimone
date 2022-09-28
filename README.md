@@ -21,6 +21,8 @@ Handbook](https://solidbook.io).
 
 - My Hobbies are `Programing`, `Books`, `Anime/Cosplay`.
 
+- Programming since [2019]() (This is my secondary repo).
+
 <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
