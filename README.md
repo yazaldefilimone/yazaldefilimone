@@ -19,7 +19,7 @@ Handbook](https://solidbook.io).
   - [Algoritmos Teoria e Pratica](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996).
   
 
-- My Hobbies are `Programing`, `Books`, `Anime/Cosplay`.
+- My Hobbies are `Programing`, `Books`, `Anime`, `Cosplay`.
 
 - Programming since [2019]() (This is my secondary repo).
 
