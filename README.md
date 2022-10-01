@@ -17,6 +17,7 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
   - [The Software Design & Architecture
 Handbook](https://solidbook.io).
   - [Algoritmos Teoria e Pratica](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996).
+  - [Confissões de Um Garoto Tímido, Nerd e (Ligeiramente) Apaixonado](https://www.amazon.com.br/Confiss%C3%B5es-Garoto-T%C3%ADmido-Ligeiramente-Apaixonado/dp/8580416957)
   
 
 - My Hobbies are `Programing`, `Books`, `Anime`, `Cosplay`.
