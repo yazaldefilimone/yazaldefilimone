@@ -22,7 +22,7 @@ Handbook](https://solidbook.io).
 
 - My Hobbies are `Programing`, `Books`, `Anime`, `Cosplay`.
 
-- Programming since [2019]() (This is my secondary repo).
+- Programming since [2019]().
 
 <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
