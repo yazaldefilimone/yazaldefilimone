@@ -10,7 +10,7 @@ My experience includes, but it’s not limited to, React and Node.js  (REST, Pos
 
 - Let's make the web faster, accessible and easier.
 
-- Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [My notes](https://github.com/yazaldefilimonepinto/mynotes).
+- Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [Notes](https://github.com/yazaldefilimonepinto/mynotes).
 
 - I'm Reading:
   - [Arquitetura Limpa na Prática](https://pay.hotmart.com/O59619511K?checkoutMode=10).
