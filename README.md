@@ -1,4 +1,4 @@
-<strong> Hey 👋🏻 call me Yazalde.</strong>  
+<strong> Hi There 👋 call me Yazalde.</strong>  
 
 I'm Yazalde Filimone I live at 🇲🇿 Inhambane, Mozambique
 
