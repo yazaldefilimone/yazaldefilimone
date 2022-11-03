@@ -52,14 +52,15 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
 
 - Talk to me:
 
-<p align="left">
+<div align="left">
 <a href="https://www.linkedin.com/in/yazalde-filimone"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
   <a href="mailto:yazaldefilimon@gmail.com"><img src="https://img.shields.io/badge/yazaldefilimon@gmail.com-%230d1117.svg?style=for-the-badge&logo=gmail"/></a>
-</p>
+</div>
   
 <a href="https://www.youtube.com/@yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
 <a href="https://twitter.com/yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
 <a href="https://open.spotify.com/user/31k2xddcio4oyoxer5nf2vou5pqi"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
+</div>
 
 <!-- <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
