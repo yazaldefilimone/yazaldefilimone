@@ -21,24 +21,62 @@ Handbook](https://solidbook.io).
 
 - My Hobbies are `Programing`, `Books`, `Anime`, `Cosplay`.
 
-<p align="left">
+- My favorite technologies and what I use:
+
+<p align="justify">
+ <img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
+ <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
+ <img alt="Nodejs" src="https://img.shields.io/badge/node-%230d1117.svg?style=for-the-badge&logo=node.js"/>
+ <img alt="Vue" src="https://img.shields.io/badge/vue-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
+   <img alt="Git" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
+ <img alt="Github" src="https://img.shields.io/badge/github-%230d1117.svg?style=for-the-badge&logo=github"/>
+ <img alt="Vercel" src="https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel"/>
+  </p>
+<p align="justify">
+  
+ <img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
+ <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
+ <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
+ <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
+ <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
+  </p>
+<p align="justify">
+ <img alt="CSS" src="https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+ <img alt="CSS" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
+ <img alt="postgresql" src="https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql"/>
+ <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab"/>
+ <img alt="mysql" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
+  </p>
+
+- Talk to me: 
+
+<p align="justify">
+<a href="https://www.linkedin.com/in/yazalde-filimone"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
+  <a href="mailto:yazaldefilimon@gmail.com"><img src="https://img.shields.io/badge/yazaldefilimon@gmail.com-%230d1117.svg?style=for-the-badge&logo=gmail"/></a>
+<a href="https://twitter.com/yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+<a href="https://www.youtube.com/@yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
+<a href="https://open.spotify.com/user/31k2xddcio4oyoxer5nf2vou5pqi"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
+  
+</p>
+
+<!-- <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="https://www.linkedin.com/in/yazalde-filimone-65142b206/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
-
+ -->
 <!--   <a href="https://api.whatsapp.com/send?phone=258858127038&text=oie%20Yazalde%20Filimone%20vim%20pelo%20seu%20perfil%20do%20github" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>
  -->
 <!--   <a href="#" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a> -->
-  <a href="https://twitter.com/yazaldefilimone" alt="Twitter">
+<!--   <a href="https://twitter.com/yazaldefilimone" alt="Twitter">
   <img src="https://img.shields.io/badge/-Twitter-1D9BF0?style=flat-square&labelColor=1D9BF0&logo=twitter&logoColor=white&link=https://twitter.com/yazaldefilimone"/></a>
     <a href="https://yazaldefilimone.vercel.app/" alt="">
   <img src="https://img.shields.io/badge/-My Blog-1D9BF0?style=flat-square&labelColor=1D9BF0&&logoColor=white&link=https://yazaldefilimone.vercel.app/"/></a>
 </p>
-
+ -->
 
 
 <!----<div style="display:block " align="left">
