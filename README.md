@@ -23,28 +23,26 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
 
 - My favorite technologies and what I use:
 
-![Next](https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js3)
-![React](https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react3)
-![Nodejs](https://img.shields.io/badge/node-%230d1117.svg?style=for-the-badge&logo=node.js3)
-![Vue](https://img.shields.io/badge/vue-%230d1117.svg?style=for-the-badge&logo=vuedotjs3)
-![Git](https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git3)
-![Github](https://img.shields.io/badge/github-%230d1117.svg?style=for-the-badge&logo=github3)
-![Vite](https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF3)
-![Vercel](https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel3)
-![Typescript](https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript3)
-![Javascript](https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript3)
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss3)
-![styled-components](https://img.shields.io/badge/styledcomponents-%230d1117.svg?style=for-the-badge&logo=styled-components3)
-![sass](https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass3)
-![HTML](https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html53)
-![CSS](https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B63)
-![python](https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python3)
-![postgresql](https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql3)
-![Git](https://img.shields.io/badge/mongodb-%230d1117.svg?style=for-the-badge&logo=mongodb3)
-![mysql](https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql3)
-![gitlab](https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab3)
-
-  </p>
+ <img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
+ <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
+ <img alt="Nodejs" src="https://img.shields.io/badge/node-%230d1117.svg?style=for-the-badge&logo=node.js"/>
+ <img alt="Vue" src="https://img.shields.io/badge/vue-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
+   <img alt="Git" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
+ <img alt="Github" src="https://img.shields.io/badge/github-%230d1117.svg?style=for-the-badge&logo=github"/>
+ <img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
+ <img alt="Vercel" src="https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel"/>
+ <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
+ <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
+ <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
+ <img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-%230d1117.svg?style=for-the-badge&logo=styled-components"/>
+ <img alt="sass" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
+ <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
+ <img alt="CSS" src="https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+ <img alt="python" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
+ <img alt="postgresql" src="https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql"/>
+<img alt="Git" src="https://img.shields.io/badge/mongodb-%230d1117.svg?style=for-the-badge&logo=mongodb"/>
+ <img alt="mysql" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
+ <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab"/>
 
 - Talk to me:
 
@@ -53,11 +51,9 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
   <a href="mailto:yazaldefilimon@gmail.com"><img src="https://img.shields.io/badge/yazaldefilimon@gmail.com-%230d1117.svg?style=for-the-badge&logo=gmail"/></a>
 </p>
   
-<p align="justify">
 <a href="https://www.youtube.com/@yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
 <a href="https://twitter.com/yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
 <a href="https://open.spotify.com/user/31k2xddcio4oyoxer5nf2vou5pqi"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
-</p>
 
 <!-- <p align="left">
   <a href="mailto:yazaldefilimon@gmail.com" alt="Gmail">
