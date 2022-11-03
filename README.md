@@ -23,7 +23,7 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
 
 - My favorite technologies and what I use:
 
-<p align="left">
+<div align="left">
  <img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
  <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
  <img alt="Nodejs" src="https://img.shields.io/badge/node-%230d1117.svg?style=for-the-badge&logo=node.js"/>
@@ -32,14 +32,15 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
  <img alt="Github" src="https://img.shields.io/badge/github-%230d1117.svg?style=for-the-badge&logo=github"/>
  <img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel"/>
-<p align="left">
+ </div>
+<div align="left">
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
  <img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-%230d1117.svg?style=for-the-badge&logo=styled-components"/>
  <img alt="sass" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
-</p>
-<p align="left">
+</div>
+<div align="left">
  <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
  <img alt="python" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
@@ -47,7 +48,7 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
 <img alt="Git" src="https://img.shields.io/badge/mongodb-%230d1117.svg?style=for-the-badge&logo=mongodb"/>
  <img alt="mysql" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab"/>
-</p>
+</div>
 
 - Talk to me:
 
