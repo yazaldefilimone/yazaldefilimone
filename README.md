@@ -38,11 +38,13 @@ Handbook](https://solidbook.io).
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
+ <img alt="sass" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
  <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
   </p>
 <p align="justify">
  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
- <img alt="CSS" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
+ <img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-%230d1117.svg?style=for-the-badge&logo=styled-components"/>
+ <img alt="python" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
  <img alt="postgresql" src="https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql"/>
  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab"/>
  <img alt="mysql" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
@@ -53,10 +55,12 @@ Handbook](https://solidbook.io).
 <p align="justify">
 <a href="https://www.linkedin.com/in/yazalde-filimone"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
   <a href="mailto:yazaldefilimon@gmail.com"><img src="https://img.shields.io/badge/yazaldefilimon@gmail.com-%230d1117.svg?style=for-the-badge&logo=gmail"/></a>
-<a href="https://twitter.com/yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
-<a href="https://www.youtube.com/@yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
-<a href="https://open.spotify.com/user/31k2xddcio4oyoxer5nf2vou5pqi"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
+</p>
   
+<p align="justify">
+<a href="https://www.youtube.com/@yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=YouTube&logoColor=ff0000"/></a>
+<a href="https://twitter.com/yazaldefilimone"><img src="https://img.shields.io/badge/@yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=Twitter&logoColor=#1DA1F2"/></a>
+<a href="https://open.spotify.com/user/31k2xddcio4oyoxer5nf2vou5pqi"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117?style=for-the-badge&logo=spotify&logoColor=#1ED760"/></a>
 </p>
 
 <!-- <p align="left">
