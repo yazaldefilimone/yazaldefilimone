@@ -1,21 +1,21 @@
-<strong> Hi There 👋 call me Yazalde.</strong>  
+<strong> Hi There 👋 call me Yazalde.</strong>
 
 I'm Yazalde Filimone I live at 🇲🇿 Inhambane, Mozambique
 
-
-My experience includes, but it’s not limited to, React and Node.js  (REST, PostgreSQL, GraphQL).
+My experience includes, but it’s not limited to, React and Node.js (REST, PostgreSQL, GraphQL).
 
 - Working remotely as a Software Developer at [A4pm](https://www.a4pm.com.br).
-- Just an introverted boy who likes anime and cosplay (*introversion is not a disease*).
+- Just an introverted boy who likes anime and cosplay (_introversion is not a disease_).
 
 - Let's make the web faster, accessible and easier.
 
 - Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [Kanban-api](https://github.com/yazaldefilimonepinto/kanban-api), [Kanban](https://github.com/yazaldefilimonepinto/kanban).
 
 - I'm Reading:
+
   - [Arquitetura Limpa na Prática](https://pay.hotmart.com/O59619511K?checkoutMode=10).
   - [The Software Design & Architecture
-Handbook](https://solidbook.io).
+    Handbook](https://solidbook.io).
   - [Algoritmos Teoria e Pratica](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996).
   - [Confissões de Um Garoto Tímido, Nerd e (Ligeiramente) Apaixonado](https://www.amazon.com.br/Confiss%C3%B5es-Garoto-T%C3%ADmido-Ligeiramente-Apaixonado/dp/8580416957)
 
@@ -23,35 +23,30 @@ Handbook](https://solidbook.io).
 
 - My favorite technologies and what I use:
 
-<p align="justify">
- <img alt="Next" src="https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js"/>
- <img alt="React" src="https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react"/>
- <img alt="Nodejs" src="https://img.shields.io/badge/node-%230d1117.svg?style=for-the-badge&logo=node.js"/>
- <img alt="Vue" src="https://img.shields.io/badge/vue-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
-   <img alt="Git" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
- <img alt="Github" src="https://img.shields.io/badge/github-%230d1117.svg?style=for-the-badge&logo=github"/>
- <img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
- <img alt="Vercel" src="https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel"/>
-  </p>
-<p align="justify">
- <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
- <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
- <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
- <img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-%230d1117.svg?style=for-the-badge&logo=styled-components"/>
- <img alt="sass" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
-  </p>
-<p align="justify">
- <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
- <img alt="CSS" src="https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
- <img alt="python" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
- <img alt="postgresql" src="https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql"/>
-   <img alt="Git" src="https://img.shields.io/badge/mongodb-%230d1117.svg?style=for-the-badge&logo=mongodb"/>
- <img alt="mysql" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
- <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab"/>
-  
+![Next](https://img.shields.io/badge/Next-%230d1117?style=for-the-badge&logo=next.js3)
+![React](https://img.shields.io/badge/react-%230d1117.svg?style=for-the-badge&logo=react3)
+![Nodejs](https://img.shields.io/badge/node-%230d1117.svg?style=for-the-badge&logo=node.js3)
+![Vue](https://img.shields.io/badge/vue-%230d1117.svg?style=for-the-badge&logo=vuedotjs3)
+![Git](https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git3)
+![Github](https://img.shields.io/badge/github-%230d1117.svg?style=for-the-badge&logo=github3)
+![Vite](https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF3)
+![Vercel](https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel3)
+![Typescript](https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript3)
+![Javascript](https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript3)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss3)
+![styled-components](https://img.shields.io/badge/styledcomponents-%230d1117.svg?style=for-the-badge&logo=styled-components3)
+![sass](https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass3)
+![HTML](https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html53)
+![CSS](https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B63)
+![python](https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python3)
+![postgresql](https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql3)
+![Git](https://img.shields.io/badge/mongodb-%230d1117.svg?style=for-the-badge&logo=mongodb3)
+![mysql](https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql3)
+![gitlab](https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab3)
+
   </p>
 
-- Talk to me: 
+- Talk to me:
 
 <p align="justify">
 <a href="https://www.linkedin.com/in/yazalde-filimone"><img src="https://img.shields.io/badge/yazaldefilimone-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0077B5"/></a>
@@ -83,9 +78,7 @@ Handbook](https://solidbook.io).
 </p>
  -->
 
-
 <!----<div style="display:block " align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=yazaldefilimonepinto&show_icons=true&?count_private=true&include_all_commits=true" height="150px"  alt="yazaldefilimonepinto github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yazaldefilimonepinto&hide=Makefile&layout=compact" height="150px"  alt="yazaldefilimonepinto top langs" />
 </div>--->
-
