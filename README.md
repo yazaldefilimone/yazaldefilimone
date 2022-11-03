@@ -30,24 +30,25 @@ Handbook](https://solidbook.io).
  <img alt="Vue" src="https://img.shields.io/badge/vue-%230d1117.svg?style=for-the-badge&logo=vuedotjs"/>
    <img alt="Git" src="https://img.shields.io/badge/git-%230d1117.svg?style=for-the-badge&logo=git"/>
  <img alt="Github" src="https://img.shields.io/badge/github-%230d1117.svg?style=for-the-badge&logo=github"/>
+ <img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
  <img alt="Vercel" src="https://img.shields.io/badge/vercel-%230d1117.svg?style=for-the-badge&logo=vercel"/>
   </p>
 <p align="justify">
-  
- <img alt="Vite" src="https://img.shields.io/badge/vite-%230d1117.svg?style=for-the-badge&logo=vite&logoColor=%23646CFF"/>
  <img alt="Typescript" src="https://img.shields.io/badge/typescript-%230d1117.svg?style=for-the-badge&logo=typescript"/>
  <img alt="Javascript" src="https://img.shields.io/badge/javascript-%230d1117.svg?style=for-the-badge&logo=javascript"/>
  <img alt="Tailwind CSS" src="https://img.shields.io/badge/tailwindcss-%230d1117?style=for-the-badge&logo=tailwindcss"/>
+ <img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-%230d1117.svg?style=for-the-badge&logo=styled-components"/>
  <img alt="sass" src="https://img.shields.io/badge/sass-%230d1117.svg?style=for-the-badge&logo=sass"/>
- <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
   </p>
 <p align="justify">
+ <img alt="HTML" src="https://img.shields.io/badge/html5-%230d1117.svg?style=for-the-badge&logo=html5"/>
  <img alt="CSS" src="https://img.shields.io/badge/CSS3-%230d1117.svg?style=for-the-badge&logo=css3&logoColor=1572B6"/>
- <img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-%230d1117.svg?style=for-the-badge&logo=styled-components"/>
  <img alt="python" src="https://img.shields.io/badge/python-%230d1117.svg?style=for-the-badge&logo=python"/>
  <img alt="postgresql" src="https://img.shields.io/badge/postgresql-%230d1117.svg?style=for-the-badge&logo=postgresql"/>
- <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab"/>
+   <img alt="Git" src="https://img.shields.io/badge/mongodb-%230d1117.svg?style=for-the-badge&logo=mongodb"/>
  <img alt="mysql" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
+ <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab"/>
+  
   </p>
 
 - Talk to me: 
