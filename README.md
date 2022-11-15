@@ -23,7 +23,7 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
   - [Confissões de Um Garoto Tímido, Nerd e (Ligeiramente) Apaixonado](https://www.amazon.com.br/Confiss%C3%B5es-Garoto-T%C3%ADmido-Ligeiramente-Apaixonado/dp/8580416957)
 
 - My Hobbies are `Programing`, `Books`, `Anime`, `Cosplay`.
-
+<!--  
 - My favorite technologies and what I use:
 
 <div align="left">
@@ -52,7 +52,7 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
  <img alt="mysql" src="https://img.shields.io/badge/mysql-%230d1117.svg?style=for-the-badge&logo=mysql"/>
  <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%230d1117.svg?style=for-the-badge&logo=gitlab"/>
 </div>
-
+-->
 - Talk to me:
 
 <div align="left">
