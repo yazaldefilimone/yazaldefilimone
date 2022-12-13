@@ -1,6 +1,7 @@
 <samp>
-<strong> HELLO 👋 CALL ME YAZALDE </strong>
-
+<strong> HELLO 👋 CALL ME YAZALDE </strong><br><br>
+  
+  
 I'm Yazalde Filimone I live at 🇲🇿 Inhambane, Mozambique
 
 My experience includes, but it’s not limited to, React and Node.js (REST, PostgreSQL, GraphQL).
@@ -9,7 +10,9 @@ My experience includes, but it’s not limited to, React and Node.js (REST, Post
 - Just an introverted boy who likes anime and cosplay (_introversion is not a disease_).
 
 - Let's make the web faster, accessible and easier.
-
+  
+- Programming is what I do best, that's why I do it for real.
+  
 - Working hard to make the world better with software.
 
 - Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone), [Kanban-api](https://github.com/yazaldefilimonepinto/kanban-api), [Kanban](https://github.com/yazaldefilimonepinto/kanban).
