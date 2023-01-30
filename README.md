@@ -1,7 +1,6 @@
 <samp>
   <h3> Yazalde Filimone </h3>
   
-  
 - Software Enginner at [RG Sistemas](http://www.rgsistemas.com.br). Based in Rio de Janeiro, Brasil🇧🇷.
   
 - Just an introverted young who likes books and technology.
@@ -23,7 +22,6 @@
   Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com) and [yazaldefilimone.com](https://yazaldefilimone.com)
   
   I focus on the essentials and ignore everything else. So if I'm not developing something, I'm probably reading a book or sleeping.
-  
   <p align="center">
     <a href="https://yazaldefilimone.com">me</a> .
     <a href="https://yazaldefilimone.com/blog">blog</a> .
