@@ -22,7 +22,7 @@
   Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com) and [yazaldefilimone.com](https://yazaldefilimone.com)
   
   I focus on the essentials and ignore everything else. So if I'm not developing something, I'm probably reading a book or sleeping.
-  <p align="center">
+  <p align="enter">
     <a href="https://yazaldefilimone.com">me</a> .
     <a href="https://yazaldefilimone.com/blog">blog</a> .
     <a href="https://yazaldefilimone.com/guestbook">guestbooks</a> .
