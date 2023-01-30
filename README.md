@@ -25,7 +25,7 @@
   <p align="center">
     <a href="https://yazaldefilimone.com">me</a> .
     <a href="https://yazaldefilimone.com/blog">blog</a> .
-    <a href="https://yazaldefilimone.com/guestbooks">guestbooks</a> .
+    <a href="https://yazaldefilimone.com/guestbook">guestbooks</a> .
     <a href="https://twitter.com/yazaldefilimone">tweets</a> .
     <a href="https://www.buymeacoffee.com/yazaldefilimone">sponsor</a>
 </p>
