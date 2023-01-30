@@ -7,7 +7,7 @@
 
 - Making the web faster, more accessible and easier.
   
-- DX and Performance are my favorite topics.
+- DX, Architecture and Performance are my favorite topics.
   
 - I'm Reading:
 
