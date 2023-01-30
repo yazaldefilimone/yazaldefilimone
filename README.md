@@ -1,34 +1,33 @@
 <samp>
-<strong> HELLO 👋 CALL ME YAZALDE </strong><br><br>
+  <h3> Yazalde Filimone </h3>
   
   
-I'm Yazalde Filimone I live at 🇲🇿 Inhambane, Mozambique
-
-My experience includes, but it’s not limited to, React and Node.js (REST, PostgreSQL, GraphQL).
-
-- Working remotely as a Software Developer at [RG Sistemas](http://www.rgsistemas.com.br).
-- Just an introverted boy who likes anime and cosplay (_introversion is not a disease_).
-
-- Let's make the web faster, accessible and easier.
+- Software Enginner at [RG Sistemas](http://www.rgsistemas.com.br). Based in Rio de Janeiro, Brasil🇧🇷.
   
-- Programming is what I do best, that's why I do it for real.
+- Just an introverted young who likes books and technology.
+
+- Making the web faster, more accessible and easier.
   
-- Working hard to make the world better with software.
-
-- Currently building [My Blog](https://github.com/yazaldefilimonepinto/yazaldefilimone)
-
+- DX and Performance are my favorite topics.
+  
 - I'm Reading:
 
   - [Arquitetura Limpa na Prática](https://pay.hotmart.com/O59619511K?checkoutMode=10).
   - [The Software Design & Architecture
     Handbook](https://solidbook.io).
-  - [Algoritmos Teoria e Pratica](https://www.amazon.com.br/Algoritmos-Teoria-Pr%C3%A1tica-Thomas-Cormen/dp/8535236996).
-  - [Confissões de Um Garoto Tímido, Nerd e (Ligeiramente) Apaixonado](https://www.amazon.com.br/Confiss%C3%B5es-Garoto-T%C3%ADmido-Ligeiramente-Apaixonado/dp/8580416957)
-
-- My Hobbies are: `Programing`, `Books`, `Anime`, `Cosplay`.
   
 - Talk to me:
    - LinkeDin: [@yazaldefilimone](https://www.linkedin.com/in/yazalde-filimone)
    - Twitter:  [@yazaldefilimone](https://twitter.com/yazaldefilimone)
   
-  Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)
+  Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com) and [yazaldefilimone.com](https://yazaldefilimone.com)
+  
+  I focus on the essentials and ignore everything else. So if I'm not developing something, I'm probably reading a book or sleeping.
+  
+  <p align="center">
+    <a href="https://yazaldefilimone.com">me</a> .
+    <a href="https://yazaldefilimone.com/blog">blog</a> .
+    <a href="https://jaredpalmer.com/guestbooks">guestbooks</a> .
+    <a href="https://twitter.com/yazaldefilimone">tweets</a> .
+    <a href="https://www.buymeacoffee.com/yazaldefilimone">sponsor</a>
+</p>
