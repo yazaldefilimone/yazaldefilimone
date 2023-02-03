@@ -1,5 +1,4 @@
 <samp>
-  <h3> Yazalde Filimone </h3>
   
 - Software Enginner at [RG Sistemas](http://www.rgsistemas.com.br). Based in Rio de Janeiro, Brasil🇧🇷.
   
