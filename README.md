@@ -12,10 +12,11 @@
 - I'm Reading:
   - [14 Habits of Highly 
 Productive Developers](https://14habits.com/)
-  - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com.br/gp/product/B07D23CFGR/ref=dbs_a_def_rwt_bibl_vppi_i1)
+<!--   - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com.br/gp/product/B07D23CFGR/ref=dbs_a_def_rwt_bibl_vppi_i1) 
   - [Arquitetura Limpa na Prática](https://pay.hotmart.com/O59619511K?checkoutMode=10).
   - [The Software Design & Architecture
     Handbook](https://solidbook.io).
+-->
   
 - Talk to me:
    - LinkeDin: [@yazaldefilimone](https://www.linkedin.com/in/yazalde-filimone)
