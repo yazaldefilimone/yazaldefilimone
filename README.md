@@ -1,5 +1,4 @@
-Linux kernel
-============
+<samp>
   
 - Software Enginner at [RG Sistemas](http://www.rgsistemas.com.br). Based in Rio de Janeiro, Brasil🇧🇷.
   
