@@ -6,7 +6,7 @@
 
 - Making the web faster, more accessible and easier.
   
-- DX, Architecture and Performance are my favorite topics.
+-  Algorithms, Architecture and Performance are my favorite topics.
   
 - I'm Reading:
   - [14 Habits of Highly 
