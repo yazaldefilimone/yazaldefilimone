@@ -23,13 +23,13 @@
   
   I focus on the essentials and ignore everything else. So if I'm not developing something, I'm probably reading a book or sleeping.
   
-  <!--START_SECTION:waka-->
+  <!--START_ SECTION:waka-->
 
 ```text
 No activity tracked
 ```
 
-<!--END_SECTION:waka-->
+<!--END_ SECTION:waka-->
 
   <p align="enter">
     <a href="https://yazaldefilimone.com">me</a> .
