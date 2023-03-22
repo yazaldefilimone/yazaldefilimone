@@ -7,6 +7,8 @@
 - Making the web faster, more accessible and easier.
   
 -  Algorithms, Architecture and Performance are my favorite topics.
+ 
+- Interested in programming languages and compilers.
   
 - I'm Reading:
 <!--   - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com.br/gp/product/B07D23CFGR/ref=dbs_a_def_rwt_bibl_vppi_i1) 
