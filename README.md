@@ -10,7 +10,6 @@
  
 - Interested in programming languages and compilers.
   
-- I'm Reading:
 <!--   - [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com.br/gp/product/B07D23CFGR/ref=dbs_a_def_rwt_bibl_vppi_i1) 
   - [Arquitetura Limpa na Prática](https://pay.hotmart.com/O59619511K?checkoutMode=10).
   - [The Software Design & Architecture
@@ -30,8 +29,8 @@
 
   <p align="enter">
     <a href="https://yazaldefilimone.com">me</a> .
-    <a href="https://yazaldefilimone.com/blog">blog</a> .
+    <a href="https://yazaldefilimone.com/writing">writing</a> .
     <a href="https://yazaldefilimone.com/guestbook">guestbooks</a> .
     <a href="https://twitter.com/yazaldefilimone">tweets</a> .
-    <a href="https://www.buymeacoffee.com/yazaldefilimone">sponsor</a>
+<!--     <a href="https://www.buymeacoffee.com/yazaldefilimone">sponsor</a> -->
 </p>
