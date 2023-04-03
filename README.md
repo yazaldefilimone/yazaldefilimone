@@ -23,6 +23,11 @@
   I focus on the essentials and ignore everything else. So if I'm not developing something, I'm probably reading a book or sleeping.
   
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
   <p align="enter">
