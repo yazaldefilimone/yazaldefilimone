@@ -22,8 +22,8 @@
   
   I focus on the essentials and ignore everything else. So if I'm not developing something, I'm probably reading a book or sleeping.
   
-<!--   START_ SECTIONwaka -->
-<!--END_ SECTIONwaka-->
+<!--   START_SECTION:waka -->
+<!--END_SECTION:waka-->
 
   <p align="enter">
     <a href="https://yazaldefilimone.com">me</a> .
