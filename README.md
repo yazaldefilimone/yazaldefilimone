@@ -24,9 +24,7 @@
   
 <!--START_SECTION:wak-->
 
-```text
-No activity tracked
-```
+
 
 <!--END_SECTION:wak-->
 
