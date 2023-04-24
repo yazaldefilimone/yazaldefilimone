@@ -2,6 +2,8 @@
 
   
 - Interested in programming languages, compilers and web.
+
+- I want to talk to you about the affect and aesthetics of computing.
   
  - Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)
   
