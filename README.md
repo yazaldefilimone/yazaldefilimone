@@ -1,7 +1,7 @@
 <samp>
 
   
-- Interested in programming languages theory, compilers, math and web.
+- Interested in programming languages theory, compilers, mathematics.
 
 - I want to talk to you about the affect and aesthetics of computing.
   
