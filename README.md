@@ -1,9 +1,12 @@
 <samp>
 
-  
+
+
 - Interested in programming languages theory, compilers, VMs, mathematics.
 
 - I want to talk to you about the affect and aesthetics of computing.
+  
+- Just a young introvert who likes anime and cosplay.
   
  - Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)
   
