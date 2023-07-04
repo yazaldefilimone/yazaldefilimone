@@ -1,12 +1,13 @@
 <samp>
 
 
-
+- Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.
+  
 - Interested in programming languages theory, compilers, VMs, mathematics.
 
 - I want to talk to you about the affect and aesthetics of computing.
   
-- Just a young introvert who likes anime and cosplay.
+- Just a young introvert who likes coding and books.
   
  - Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)
   
