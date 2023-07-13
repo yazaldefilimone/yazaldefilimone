@@ -1,6 +1,8 @@
 <samp>
 
 
+  ʕ•ᴥ•ʔ
+
 - Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.
   
 - Interested in programming languages theory, compilers, VMs, mathematics.
@@ -16,3 +18,5 @@
     <a href="https://www.linkedin.com/in/yazalde-filimone">linkedin</a> .
     <a href="https://twitter.com/yazaldefilimone">twitter</a>
     </p>
+
+
