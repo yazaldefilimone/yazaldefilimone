@@ -1,7 +1,6 @@
 <samp>
 
 
-  ʕ•ᴥ•ʔ
 
 - Interested in programming languages theory, compilers, VMs, mathematics.
 
