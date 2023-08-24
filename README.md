@@ -2,7 +2,7 @@
 
 
 
-- Interested in programming languages theory, compilers, VMs, mathematics.
+- Hi there! I'm a polyglot Software Engineer.
 
 - I want to talk to you about the affect and aesthetics of computing.
   
