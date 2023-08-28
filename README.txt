@@ -6,10 +6,7 @@ Just a young introvert who likes coding and books.
   
 Reach out at: yazaldefilimon@gmail.com
 
-Website: https://twitter.com/yazaldefilimone
-
+Website: https://yazaldefilimone.com
 Twitter: https://twitter.com/yazaldefilimone
-
 Goodreads: https://www.goodreads.com/yazaldefilimone
-
 Linkedin: https://www.linkedin.com/in/yazalde-filimone
