@@ -6,6 +6,9 @@
 
 - Just a young introvert who likes coding and books.
 
+- I'm Learning how think better.
+
+
   Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)
 
   
