@@ -1,12 +1,12 @@
 <samp>
 
-- Hi there! I'm a polyglot Software Engineer
+- Hi there! I'm a Nerd Engineer
 
-- Reflecting about the affect and aesthetics of computing.
+- Today, I stopped to observe the code, and how far it can take me.
 
 - Just a young introvert who likes coding and books.
 
-- I'm Learning how think better.
+
 
 
   Reach out at: [yazaldefilimon@gmail.com](mailto:yazaldefilimon@gmail.com)
