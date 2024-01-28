@@ -1,6 +1,6 @@
 Hello, I’m Yazalde Filimone.
 
-I'm a enginher based in Mozambique. I'm interested in compilers, os enginher, web engineering, dev experience and under engineering.
+I'm a enginher based in Mozambique. I'm interested in, frontend, compilers, os enginher and under engineering.
 
 I'm currently working at A4pm, build scalable systems, We focus on ensuring that our systems save and educate as many lives as possible.
 
