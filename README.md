@@ -2,9 +2,9 @@
  
 Hello, I’m Yazalde Filimone.
 
-I'm a enginher based in Mozambique. I'm interested in frontend, compilers, OS enginher and computer ciencie.
+I'm a enginher based in [Mozambique](https://en.wikipedia.org/wiki/Mozambique). I'm interested in frontend, compilers, OS enginher and computer ciencie.
 
-I'm currently working at A4pm, We focus on ensuring that our systems save and educate as many lives as possible.
+I'm currently working at A4pm 🇧🇷, We focus on ensuring that our systems save and educate as many lives as possible.
 
 Previously, I followed my coding journey using a [sangung cellphone](https://www.samsung.com/ph/smartphones/others/galaxy-grand-prime-white-8gb-sm-g530hzwdxtc/)  and using [termux](https://termux.dev/en/) terminal emulation.
 
