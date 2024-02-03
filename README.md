@@ -2,7 +2,7 @@
  
 Hello, I’m Yazalde Filimone, an engineer based in [Mozambique](https://en.wikipedia.org/wiki/Mozambique). 
 
-I'm interested in web, compilers, os engineering, math, distributed systems, unix systems and computer science.
+Many things capture my interest, such as the web, compilers, math, distributed systems, unix systems, computer science and other stuffs!
 
 I'm currently working at A4pm 🇧🇷, We focus on ensuring that our systems save and educate as many lives as possible.
 
