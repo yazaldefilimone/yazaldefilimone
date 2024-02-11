@@ -1,5 +1,8 @@
 <samp>
+I like computer's
+
  
+<!--
 Hello, I’m Yazalde Filimone, an engineer based in [Mozambique](https://en.wikipedia.org/wiki/Mozambique). 
 
 Many things capture my interest, such as the web, compilers, math, distributed systems, unix systems, computer science and other stuffs!
@@ -8,7 +11,9 @@ I'm currently working at A4pm 🇧🇷, We focus on ensuring that our systems sa
 
 Previously, I followed my coding journey using a [sangung cellphone](https://www.samsung.com/ph/smartphones/others/galaxy-grand-prime-white-8gb-sm-g530hzwdxtc/)  and using [termux](https://termux.dev/en/) terminal emulation.
 
-How far it can take me? Just a young introvert who likes coding and books.
+How far it can take me? Just a young introvert who likes coding and books. 
+-->
+
 </samp>
 <p align="enter">
     <samp>
