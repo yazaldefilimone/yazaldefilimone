@@ -1,7 +1,15 @@
 <samp>
+ 
 I like computer's (and sometime math)
 
- 
+ </samp>
+<p align="enter">
+    <samp>
+    <a href="https://yazaldefilimone.com">website</a> • 
+    <a href="https://www.linkedin.com/in/yazalde-filimone">linkedin</a> • 
+    <a href="https://twitter.com/yazaldefilimone">twitter</a>
+    </samp>
+    </p>
 <!--
 Hello, I’m Yazalde Filimone, an engineer based in [Mozambique](https://en.wikipedia.org/wiki/Mozambique). 
 
@@ -15,11 +23,4 @@ How far it can take me? Just a young introvert who likes coding and books.
 -->
 
 
-</samp>
-<p align="enter">
-    <samp>
-    <a href="https://yazaldefilimone.com">website</a> • 
-    <a href="https://www.linkedin.com/in/yazalde-filimone">linkedin</a> • 
-    <a href="https://twitter.com/yazaldefilimone">twitter</a>
-    </samp>
-    </p>
+
