@@ -1,5 +1,5 @@
 <samp>
-I like computer's
+I like computer's (and sometime math)
 
  
 <!--
@@ -13,6 +13,7 @@ Previously, I followed my coding journey using a [sangung cellphone](https://www
 
 How far it can take me? Just a young introvert who likes coding and books. 
 -->
+
 
 </samp>
 <p align="enter">
