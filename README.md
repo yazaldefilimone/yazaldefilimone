@@ -1,6 +1,6 @@
 <samp>
  
-I like computer's (and sometime math)
+I like computers (and sometime math)
 
  </samp>
 <p align="enter">
