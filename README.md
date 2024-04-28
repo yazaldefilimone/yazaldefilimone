@@ -1,13 +1,8 @@
 <samp>
 
-Hei
-
-I'm Yazalde Filimone.
-
 I strongly love low-level details of computers.
 
-
-Top 10 Projects:
+Projects:
 
 1. [A JavaScript and TypeScript engine](https://github.com/yazaldefilimone/core-engine) (WIP)
 2. [A light-weight and fast runtime for JavaScript and TypeScript](https://github.com/yazaldefilimone/zox) (WIP depend 1)
