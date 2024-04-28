@@ -14,7 +14,6 @@ Projects:
 8. [High-level compilation | Transform pipeline | Message-passing mechanism | Transpiler](https://github.com/yazaldefilimone/high-level-compiler) (2023)
 9. [Computer science | Algorithms | Data structures](https://github.com/yazaldefilimone/algorithms) (WIP)
 10. [Building an Interpreter from scratch](https://github.com/yazaldefilimone/essentials-of-interpretation) (2023)
-11. [Translate video into multiple languages ​​in video, audio or subtitle file](https://github.com/yazaldefilimone/video-translator) (2022)
 
 
 
