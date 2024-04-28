@@ -2,6 +2,32 @@
  
 I like computers (sometime math)
 
+
+Top 10 Codes:
+1. [A JavaScript and TypeScript engine](https://github.com/yazaldefilimone/core-engine) (WIP)
+2. [A light-weight and fast runtime for JavaScript and TypeScript](https://github.com/yazaldefilimone/zox) (WIP depend 1)
+3. [A dependent type checker for lambda calculus](https://github.com/yazaldefilimone/lambda-checker)
+4. [Build Stack-based | Bytecode interpreter | Garbage collection](https://github.com/yazaldefilimone/virtual-machine.rs)
+5. [The Dolphin Programming Language](https://github.com/yazaldefilimone/dolphin)
+6. [Type system | Static typeChecker | Type inference](https://github.com/yazaldefilimone/eva-typechecker)
+7. [A mini Typescript compiler](https://github.com/yazaldefilimone/mini-typescript)
+8. [High-level compilation | Transform pipeline | Message-passing mechanism | Transpiler](https://github.com/yazaldefilimone/high-level-compiler) (2023)
+9. [Computer science | Algorithms | Data structures](https://github.com/yazaldefilimone/algorithms) (WIP)
+10. [Building an Interpreter from scratch](https://github.com/yazaldefilimone/essentials-of-interpretation) (2023)
+11. [Translate video into multiple languages ​​in video, audio or subtitle file](https://github.com/yazaldefilimone/video-translator) (2022)
+
+
+
+
+
+
+
+
+
+
+
+
+
  </samp>
 <p align="enter">
     <samp>
@@ -11,16 +37,3 @@ I like computers (sometime math)
     </samp>
     </p>
 <!--
-Hello, I’m Yazalde Filimone, an engineer based in [Mozambique](https://en.wikipedia.org/wiki/Mozambique). 
-
-Many things capture my interest, such as the web, compilers, math, distributed systems, unix systems, computer science and other stuffs!
-
-I'm currently working at A4pm 🇧🇷, We focus on ensuring that our systems save and educate as many lives as possible.
-
-Previously, I followed my coding journey using a [sangung cellphone](https://www.samsung.com/ph/smartphones/others/galaxy-grand-prime-white-8gb-sm-g530hzwdxtc/)  and using [termux](https://termux.dev/en/) terminal emulation.
-
-How far it can take me? Just a young introvert who likes coding and books. 
--->
-
-
-
