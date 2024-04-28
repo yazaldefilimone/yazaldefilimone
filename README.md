@@ -1,6 +1,11 @@
 <samp>
- 
-I like computers (sometime math)
+
+Hei
+
+I'm Yazalde Filimone.
+
+I strongly love low-level details of computers.
+
 
 Top 10 Projects:
 
