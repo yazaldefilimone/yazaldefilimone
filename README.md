@@ -2,7 +2,7 @@
 
 I strongly love low-level details of computers.
 
-Projects (NB: It's still not a big deal):
+Projects:
 
 
 1. [A JavaScript and TypeScript engine](https://github.com/yazaldefilimone/core-engine) (WIP)
