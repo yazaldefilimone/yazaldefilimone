@@ -4,22 +4,22 @@ I strongly love low-level details of computers.
 
 Interests:
 
-• VMs, Compilers, JIT Compilers, VMMs.
+1. VMs, Compilers, JIT Compilers, VMMs.
 
-• Web Technology
+2. Web Technology
 
    - ECMAScript (JavaScript)
    - Web Browsers
    - CSS JIT Compilation
    - WebKit
 
-• Systems
+3. Systems
    - Kernels
    - Operating Systems
 
-• Accelerators
-   - GPUs (Graphics Processing Units)
-   - FPGAs (Field-Programmable Gate Arrays)
+4. Accelerators
+   - GPUs
+   - FPGAs
 
 
 • Projects:
