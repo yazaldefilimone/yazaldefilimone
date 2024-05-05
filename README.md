@@ -3,7 +3,9 @@
 I strongly love low-level details of computers.
 
 Interests:
-• VMs, Compilers, JIT Compilers, VMMs
+
+• VMs, Compilers, JIT Compilers, VMMs.
+
 • Web Technology
    - ECMAScript (JavaScript)
    - Web Browsers
