@@ -2,7 +2,24 @@
 
 I strongly love low-level details of computers.
 
-Projects:
+Interests:
+• VMs, Compilers, JIT Compilers, VMMs
+• Web Technology
+   - ECMAScript (JavaScript)
+   - Web Browsers
+   - CSS JIT Compilation
+   - WebKit
+
+• Systems
+   - Kernels
+   - Operating Systems
+
+• Accelerators
+   - GPUs (Graphics Processing Units)
+   - FPGAs (Field-Programmable Gate Arrays)
+
+
+• Projects:
 
 
 1. [A JavaScript and TypeScript engine](https://github.com/yazaldefilimone/core-engine) (WIP)
