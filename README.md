@@ -1,6 +1,6 @@
 <samp>
 
-I strongly love low-level details of computers.
+I strongly love low-level details of computers (math so beautiful)
 
 Interests:
 
