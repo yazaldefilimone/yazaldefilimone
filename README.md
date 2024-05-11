@@ -4,7 +4,7 @@ I strongly love low-level details of computers (math is so beautiful!).
 
 Interests:
 
-1. VMs, Compilers, JIT Compilers, VMMs.
+1. VMs, Compilers, Pl, Type Theory, JIT Compilers, VMMs, Math.
 
 2. Web Technology
 
