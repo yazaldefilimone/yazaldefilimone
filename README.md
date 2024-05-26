@@ -1,25 +1,13 @@
 <samp>
 
-I strongly love low-level details of computers (math is so beautiful!).
+I strongly love low-level details of computers and mathematics.
 
-Interests:
+Intersted about compilers, languages design, operating systems, 
+type theory, accelerators,
+web browsers, and other stuff!
 
-1. VMs, Compilers, Pl, Type Theory, JIT Compilers, VMMs, Math.
 
-2. Web Technology
-
-   - ECMAScript (JavaScript)
-   - Web Browsers
-   - CSS JIT Compilation
-   - WebKit
-
-3. Systems
-   - Kernels
-   - Operating Systems
-
-4. Accelerators
-   - GPUs
-   - FPGAs
+> “Some infinities are bigger than others… There are days, many of them, when I get irritated by the size of my set of unlimited infinities. I wish I had more numbers than I probably will.”
 
 
 • Projects:
@@ -35,18 +23,6 @@ Interests:
 8. [High-level compilation | Transform pipeline | Message-passing mechanism | Transpiler](https://github.com/yazaldefilimone/high-level-compiler) (2023)
 9. [Computer science | Algorithms | Data structures](https://github.com/yazaldefilimone/algorithms) (WIP)
 10. [Building an Interpreter from scratch](https://github.com/yazaldefilimone/essentials-of-interpretation) (2023)
-
-
-
-
-
-
-
-
-
-
-
-
 
  </samp>
 <p align="enter">
