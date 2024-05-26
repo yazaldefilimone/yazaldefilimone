@@ -9,7 +9,7 @@ web browsers...
 
 > “Some infinities are bigger than others… There are days, many of them, when I get irritated by the size of my set of unlimited infinities. I wish I had more numbers than I probably will.”
 
-
+<!---
 • Projects:
 
 
@@ -23,7 +23,7 @@ web browsers...
 8. [High-level compilation | Transform pipeline | Message-passing mechanism | Transpiler](https://github.com/yazaldefilimone/high-level-compiler) (2023)
 9. [Computer science | Algorithms | Data structures](https://github.com/yazaldefilimone/algorithms) (WIP)
 10. [Building an Interpreter from scratch](https://github.com/yazaldefilimone/essentials-of-interpretation) (2023)
-
+--->
  </samp>
 <p align="enter">
     <samp>
