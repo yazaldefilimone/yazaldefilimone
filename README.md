@@ -4,7 +4,7 @@ I strongly love low-level details of computers and mathematics.
 
 Intersted about compilers, languages design, operating systems, 
 type theory, accelerators,
-web browsers, and other stuff!
+web browsers...
 
 
 > “Some infinities are bigger than others… There are days, many of them, when I get irritated by the size of my set of unlimited infinities. I wish I had more numbers than I probably will.”
