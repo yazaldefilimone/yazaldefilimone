@@ -28,7 +28,7 @@ web browsers...
 <p align="enter">
     <samp>
     <a href="https://yazaldefilimone.com">website</a> • 
-    <a href="https://www.linkedin.com/in/yazalde-filimone">linkedin</a> • 
+    <a href="https://www.linkedin.com/in/yazaldefilimone">linkedin</a> • 
     <a href="https://twitter.com/yazaldefilimone">twitter</a>
     </samp>
     </p>
