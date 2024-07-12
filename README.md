@@ -1,6 +1,8 @@
 <samp>
 
 I strongly love low-level details of computers and mathematics.
+
+I am the computer person. why do you ask.
 <!--
 Intersted about compilers, languages design, operating systems, 
 type theory, accelerators,
