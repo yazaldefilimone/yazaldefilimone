@@ -1,6 +1,7 @@
 <samp>
 
-I strongly love low-level details of computers and mathematics.
+I strongly love low-level details of computers and mathematics. non-expert. 
+trying to be a scientist.
 <!--
 
 I'm the computer person. why do you ask.
@@ -13,8 +14,7 @@ web browsers...
 > “Some infinities are bigger than others… There are days, many of them, when I get irritated by the size of my set of unlimited infinities. I wish I had more numbers than I probably will.”
 
 
-My interests include, but are not limited to, compilers, language design, operating systems, type theory, accelerators, and web browsers.
-
+My interests include, but are not limited to, compilers, language design, operating systems, type theory, accelerators, and web browsers. 
 
 <!---
 • Projects:
