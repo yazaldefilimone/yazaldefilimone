@@ -1,7 +1,6 @@
 <samp>
 
-I strongly love low-level details of computers and mathematics. non-expert. 
-trying to be a scientist.
+I strongly love low-level details of computers and mathematics. non-expert. trying to be scientist.
 <!--
 
 I'm the computer person. why do you ask.
