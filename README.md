@@ -1,6 +1,6 @@
 <samp>
 
-Hi! I'm Yazalde Filimone. I don't know what to write here really, I just think it's cool that we can.
+Hi! I'm Yazalde Filimone. I don't know what to write here really.
 
 <!--
 I strongly love low-level details of computers and mathematics. non-expert. trying to be scientist.
