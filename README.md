@@ -1,8 +1,7 @@
-
 I'm a programmer, a computer enthusiast.<br/>
 I love cats, computers, mathematics, books, and cute things.
 
-Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay" in english.<br/>
+Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay".<br/>
 Or /jəˈzɑːldə ˌfɪliˈmoʊneɪ/ in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 <!--
 I strongly love low-level details of computers and mathematics. non-expert. trying to be scientist.
