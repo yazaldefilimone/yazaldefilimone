@@ -1,6 +1,9 @@
 <samp>
 
-Hi! I'm Yazalde Filimone. I don't know what to write here really.
+I'm a programmer, a computer enthusiast.
+
+I love cats, computers, mathematics, books, and cute things.
+
 
 <!--
 I strongly love low-level details of computers and mathematics. non-expert. trying to be scientist.
