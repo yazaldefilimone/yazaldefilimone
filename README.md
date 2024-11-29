@@ -1,5 +1,5 @@
 I'm a programmer, a computer enthusiast.<br/>
-I love cats, computers, mathematics, books, and cute things.
+I love cats, computers, mathematics, books.
 
 Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay".<br/>
 Or /jəˈzɑːldə ˌfɪliˈmoʊneɪ/ in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
