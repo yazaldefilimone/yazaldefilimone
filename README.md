@@ -1,10 +1,10 @@
 I'm a programmer, a computer enthusiast.<br/>
-I like cats, computers, mathematics, books and trying chess.
+I like cats, computers, mathematics, books and trying to like chess.
 
 Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay".<br/>
 Or /jəˈzɑːldə ˌfɪliˈmoʊneɪ/ in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 <!--
-I strongly love low-level details of computers and mathematics. non-expert. trying to be scientist.
+I strongly love low-level details of computers and mathematics. non-expert. trying to be scientidst.
 
 > “Some infinities are bigger than others… There are days, many of them, when I get irritated by the size of my set of unlimited infinities. I wish I had more numbers than I probably will.”
 
