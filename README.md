@@ -1,6 +1,5 @@
-I'm a programmer, a computer enthusiast.<br/>
-I like cats, computers, mathematics, books and trying to like chess.
-
+I'm a programmer, a computer enthusiast.
+<!-- I like cats, computers, mathematics, books and trying to like chess. -->
 Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay".<br/>
 Or /jəˈzɑːldə ˌfɪliˈmoʊneɪ/ in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 <!--
