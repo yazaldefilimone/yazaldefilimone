@@ -2,6 +2,9 @@ I'm a programmer, a computer enthusiast.
 <!-- I like cats, computers, mathematics, books and trying to like chess. -->
 Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay".<br/>
 Or /jəˈzɑːldə ˌfɪliˈmoʊneɪ/ in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
+
+> All probloms in computer science can be solved by another level of indirection!
+
 <!--
 I strongly love low-level details of computers and mathematics. non-expert. trying to be scientidst.
 
