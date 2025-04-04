@@ -1,9 +1,10 @@
-I'm a programmer, a computer enthusiast.
+I'm a programmer.
+I build systems purely for fun btw.
 <!-- I like cats, computers, mathematics, books and trying to like chess. -->
 Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay".<br/>
 Or /jəˈzɑːldə ˌfɪliˈmoʊneɪ/ in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
 
-> All probloms in computer science can be solved by another level of indirection!
+<!--  > All probloms in computer science can be solved by another level of indirection! -->
 
 <!--
 I strongly love low-level details of computers and mathematics. non-expert. trying to be scientidst.
@@ -31,9 +32,8 @@ My interests include, but are not limited to, compilers, language design, operat
 <p align="enter">
     <samp>
     <a href="https://yazaldefilimone.com">website</a> • 
-    <a href="https://www.linkedin.com/in/yazaldefilimone">linkedin</a> • 
     <a href="https://twitter.com/yazaldefilimone">twitter</a> • 
-    <a href="https://bsky.app/profile/yazaldefilimone.com">bluesky</a> 
+    <a href="https://www.linkedin.com/in/yazaldefilimone">linkedin</a>
     </samp>
 </p>
 
