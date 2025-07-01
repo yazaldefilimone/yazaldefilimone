@@ -1,5 +1,4 @@
-I'm a programmer.
-I design and build systems purely for fun.
+I'm a programmer. I just want build computers and help people
 <!-- I like cats, computers, mathematics, books and trying to like chess. -->
 Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay".<br/>
 Or /jəˈzɑːldə ˌfɪliˈmoʊneɪ/ in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
