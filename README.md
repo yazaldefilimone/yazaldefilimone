@@ -1,5 +1,5 @@
 I'm a programmer, system devolper and language designer.  
-I love cats, and silence.
+I love cats and silence.
 
 
 
