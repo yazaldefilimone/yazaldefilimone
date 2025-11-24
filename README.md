@@ -1,9 +1,38 @@
-I'm a programmer. I just want build computers and help people.
+I'm a programmer, system devolper and language designer.  
+I love cats, and silence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- 11/2025
+I'm a programmer. I just want build computers and help people. 
 
 learning 日本語. I like mathematics and computers.
-<!-- I like cats, computers, mathematics, books and trying to like chess. -->
 Yazalde Filimone is pronounced as "Yah-ZAH-day Fee-lee-MO-nay".<br/>
 Or /jəˈzɑːldə ˌfɪliˈmoʊneɪ/ in [IPA](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet).
+
+ -->
 
 <!--  > All probloms in computer science can be solved by another level of indirection! -->
 
