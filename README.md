@@ -1,4 +1,4 @@
-I'm a programmer, system devolper and language designer.  
+I'm a programmer, system developer and language designer.  
 I love cats and silence.
 
 
