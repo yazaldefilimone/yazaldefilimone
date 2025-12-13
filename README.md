@@ -1,5 +1,6 @@
 I'm a programmer, system developer and language designer.  
 I love cats and silence.
+I rewrite for fun.
 
 
 
