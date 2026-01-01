@@ -59,9 +59,9 @@ My interests include, but are not limited to, compilers, language design, operat
 --->
 <p align="enter">
     <samp>
-   <!--- <a href="https://yazaldefilimone.com">website</a> • 
-    <a href="https://www.linkedin.com/in/yazaldefilimone">linkedin</a> --->
-    <a href="https://twitter.com/yazaldefilimone">twitter</a>
+         <a href="https://twitter.com/yazaldefilimone">twitter</a>
+ • 
+   <a href="https://bsky.app/profile/yazaldefilimone.com">bluesky</a>
     </samp>
 </p>
 
