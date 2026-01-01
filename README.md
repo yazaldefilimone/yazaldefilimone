@@ -62,6 +62,8 @@ My interests include, but are not limited to, compilers, language design, operat
          <a href="https://twitter.com/yazaldefilimone">twitter</a>
  • 
    <a href="https://bsky.app/profile/yazaldefilimone.com">bluesky</a>
+     • 
+   <a href="https://www.goodreads.com/yazaldefilimone">goodreads</a>
     </samp>
 </p>
 
