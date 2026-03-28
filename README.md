@@ -1,6 +1,4 @@
-I'm a programmer and system developer.  
-I love cats and silence.
-
+I'm a programmer and system developer.
 
 
 
